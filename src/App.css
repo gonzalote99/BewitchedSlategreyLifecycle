@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', sans-serif;
+  text-align: center
+}
+
+.dark {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white
+}
+
+.light {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: black;
+}
